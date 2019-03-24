@@ -7,3 +7,5 @@ Also check if any python course are avialable to add after java programming is d
 
 Add networking course if any avialable - Computer Networks and or Distributed Systems class
 https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about
+
+MIT does offer a Discrete Maths course https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/ 
