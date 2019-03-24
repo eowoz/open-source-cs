@@ -1,7 +1,8 @@
 Need to check
 * Harvard CS50 on EdX
 * MIT 6.0001
+* or stanford course
 
 Also check if any python course are avialable to add after java programming is done.
 
-Add networking course if any avialable
+Add networking course if any avialable - Computer Networks and or Distributed Systems class
